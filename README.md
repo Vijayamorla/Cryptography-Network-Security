@@ -1,100 +1,69 @@
-# 🔐 Cryptography & Network Security
-
-### 👨‍💻 By TMC Uday
-
-
-## 📌 Project Overview
-
-This repository contains implementations of **Cryptography and Network Security algorithms** using **Java and C**.
-
-It includes both **classical ciphers** and **modern encryption techniques**, helping understand how data is secured in real-world systems.
+# 🔐 Cryptography & Network Security  
+### 👨‍💻 TMC Uday
 
 
 
-## 🧠 Algorithms Implemented
+## 📌 Overview
+This repository contains implementations of **Cryptography and Network Security algorithms** using **Java and C**.  
+It demonstrates both **classical encryption techniques** and **modern cryptographic algorithms** used to secure data and communication.
 
-### 🔹 Classical Ciphers
 
-* Caesar Cipher (`CeaserCipher.java`)
-* Hill Cipher (`HillCipher.java`)
 
-### 🔹 Modern Encryption Algorithms
+## 🧠 Algorithms Included
 
-* AES Encryption (`AESprogram.java`)
-* DES (`SimpleDES.java`)
-* Blowfish (`BlowfishEncryption.java`, `SimpleBlowfishDecimal.java`)
-* RSA Algorithm (`RSAexample.java`)
+### 🔹 Classical Cryptography
+- Caesar Cipher  
+- Hill Cipher  
+
+### 🔹 Modern Cryptography
+- AES (Advanced Encryption Standard)  
+- DES (Data Encryption Standard)  
+- Blowfish Algorithm  
+- RSA Algorithm  
 
 ### 🔹 C Programs
-
-* Experiment 1 (`exp1.c`)
-* Experiment 2 (`exp2.c`)
+- Basic cryptography experiments (`exp1.c`, `exp2.c`)
 
 
 ## 💻 Technologies Used
-
-* **Java** – for cryptographic algorithms
-* **C Programming** – for basic experiments
-* No external libraries required (basic implementations)
+- Java  
+- C Programming  
+- Command Line (GCC / Java Compiler)
 
 ## 🚀 How to Run
 
 ### ▶️ Java Programs
-
-1. Compile:
-
-   javac FileName.java
- 
-2. Run:
-
- 
-   java FileName
-   ```
+```bash
+javac FileName.java
+java FileName
+```
 
 ### ▶️ C Programs
-
-1. Compile:
-
-
-   gcc filename.c -o output
-
-2. Run:
-
-
-   ./output
-
-
-
+```bash
+gcc filename.c -o output
+./output
+```
 
 ## 🎯 Learning Outcomes
-
-* Understand encryption & decryption techniques
-* Learn differences between classical & modern cryptography
-* Gain hands-on experience with security algorithms
-* Build foundation in network security concepts
-
+- Understand core cryptographic techniques  
+- Learn encryption and decryption processes  
+- Compare classical and modern algorithms  
+- Gain practical experience in network security  
 
 
 ## 🤝 Contribution
+Contributions are welcome!  
+Feel free to fork this repository and submit pull requests.
 
-Feel free to:
-
-* Fork this repository
-* Improve implementations
-* Add new algorithms
 
 
 ## 📜 License
-
-This project is open-source and available for educational purposes.
-
+This project is for educational purposes and is open-source.
 
 
 ## 👨‍💻 Author
-
 **TMC Uday**
 
 
 
-⭐ *If you found this helpful, give it a star!*
-
+⭐ If you found this project useful, please give it a star!
