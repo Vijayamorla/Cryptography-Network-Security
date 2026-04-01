@@ -2,7 +2,6 @@
 
 ### 👨‍💻 By TMC Uday
 
----
 
 ## 📌 Project Overview
 
@@ -10,7 +9,7 @@ This repository contains implementations of **Cryptography and Network Security 
 
 It includes both **classical ciphers** and **modern encryption techniques**, helping understand how data is secured in real-world systems.
 
----
+
 
 ## 🧠 Algorithms Implemented
 
@@ -31,7 +30,6 @@ It includes both **classical ciphers** and **modern encryption techniques**, hel
 * Experiment 1 (`exp1.c`)
 * Experiment 2 (`exp2.c`)
 
----
 
 ## 💻 Technologies Used
 
@@ -39,21 +37,17 @@ It includes both **classical ciphers** and **modern encryption techniques**, hel
 * **C Programming** – for basic experiments
 * No external libraries required (basic implementations)
 
----
-
-
 ## 🚀 How to Run
 
 ### ▶️ Java Programs
 
 1. Compile:
 
-   ```
    javac FileName.java
-   ```
+ 
 2. Run:
 
-   ```
+ 
    java FileName
    ```
 
@@ -61,16 +55,16 @@ It includes both **classical ciphers** and **modern encryption techniques**, hel
 
 1. Compile:
 
-   ```
+
    gcc filename.c -o output
-   ```
+
 2. Run:
 
-   ```
-   ./output
-   ```
 
----
+   ./output
+
+
+
 
 ## 🎯 Learning Outcomes
 
@@ -79,7 +73,7 @@ It includes both **classical ciphers** and **modern encryption techniques**, hel
 * Gain hands-on experience with security algorithms
 * Build foundation in network security concepts
 
----
+
 
 ## 🤝 Contribution
 
@@ -89,19 +83,18 @@ Feel free to:
 * Improve implementations
 * Add new algorithms
 
----
 
 ## 📜 License
 
 This project is open-source and available for educational purposes.
 
----
+
 
 ## 👨‍💻 Author
 
 **TMC Uday**
 
----
+
 
 ⭐ *If you found this helpful, give it a star!*
 
